@@ -49,5 +49,8 @@ header nav ul li{
   width: 90%; /*adds space on either side*/ 
   max-width: 600px; /*keeps fiv from getting too wide*/
 }
-  
+  .project h2, #aboutme h2{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
 }
