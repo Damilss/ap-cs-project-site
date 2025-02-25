@@ -54,3 +54,12 @@ float: left;
 #TutorialPart4 {
   float: none;
 }
+}
+#WindDataEnlarger{
+  width: 100%;
+  float: none;
+}
+#ThreeDDataenlarger{
+  width: 50%;
+  float: right;
+}
